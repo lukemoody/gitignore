@@ -1,0 +1,2 @@
+# gitignore
+Globalised .gitignore options
